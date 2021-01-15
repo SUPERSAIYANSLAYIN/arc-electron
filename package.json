@@ -94,7 +94,7 @@
     "crypto-js": "^3.3.0",
     "electron-log": "^4.1.0",
     "electron-prompt": "^1.5.0",
-    "electron-updater": "4.2.2",
+    "electron-updater": "4.3.6",
     "fs-extra": "^8.1.0",
     "jexl": "^2.2.2",
     "jsonlint": "^1.6.3",
